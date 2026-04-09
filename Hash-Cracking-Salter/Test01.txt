@@ -1,0 +1,4 @@
+Username: WeWonReddit | Un-Hashed pwd: Tyler | Hashed pwd: a435e2d26d33b5972b6638363c8dedb38f25166b363b273d7a59fe44975e49b0
+
+Final time -- 20.93s
+using RubberDuck.py
