@@ -6,10 +6,15 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXFileReference section */
+		B29962F02F7EF4100010C5E8 /* hello.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = hello.py; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.python; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		B29962E52F7EF3F40010C5E8 = {
 			isa = PBXGroup;
 			children = (
+				B29962F02F7EF4100010C5E8 /* hello.py */,
 			);
 			sourceTree = "<group>";
 		};
